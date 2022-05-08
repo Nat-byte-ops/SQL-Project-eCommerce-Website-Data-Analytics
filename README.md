@@ -17,7 +17,7 @@ Using SQL to:
 Overview of the Company Database
 <img width="765" alt="Screen Shot 2022-05-08 at 11 22 37 am" src="https://user-images.githubusercontent.com/85088636/167277917-fd79782a-d931-49eb-99f2-9497376add30.png">
 
-* We will be working with six related tables, which contain eCommerce data about:
+We will be working with six related tables, which contain eCommerce data about:
 * Website Activity
 * Products
 * Orders and Refunds
