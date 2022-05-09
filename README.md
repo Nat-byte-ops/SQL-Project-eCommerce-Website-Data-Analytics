@@ -26,3 +26,5 @@ We will be working with six related tables, which contain eCommerce data about:
 
 1. Traffic Source Analysis
 * Traffic source analysis is about understanding where your customers are coming from and which channels (email, social media, search, or direct, etc) are driving the highest quality traffic (calculate the conversion rate).
+* We use the utm parameters stored in the database to identify paid website sessions
+* From our session data, we can link to our order data to understand how much revenue our paid campaigns are driving
