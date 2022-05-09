@@ -54,6 +54,12 @@ We will be working with six related tables, which contain eCommerce data about:
 
 ### 1.3 Bid Optimization
 * Analyzing for bid optimization is about understanding the value of various segments of paid traffic, so that one can optimize the marketing budget
+
+![Screen Shot 2022-05-09 at 7 26 44 pm](https://user-images.githubusercontent.com/85088636/167381499-be2586fe-6c83-4369-8c61-df6583095d8d.png)
+  * Using conversion rate and revenue per click analyses to figure out how much you should spend per click to acquire customers
+  * Understanding how your website and products perform for various subsegments of traffic (i.e. mobile vs desktop) to optimize within channels
+  * Analyzing the impact that bid changes have on your ranking in the auctions, and the volume of customers driven to your site
+
 * According to the result from 1.2, it looks like we're below the 4% threshold we need to make the economics work.
 * Based on this analysis, we'll need to dial down our search bids a bit since we're over-spending based on the current conversion rate
 * In this part, we'll monitor the impact of bid reductions
