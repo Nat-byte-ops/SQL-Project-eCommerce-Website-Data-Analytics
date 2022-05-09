@@ -1,12 +1,12 @@
 # SQL-Project-eCommerce-Database-Analysis
 
-Background:
+## Background:
 This is an eCommerce Database Analytics Project for Maven Fuzzy Factory (fake name), an online retailer which has just launched their first product. 
 
-Stakeholders:
+## Stakeholders:
 As a member of the startup team, I will work with the CEO, the Head of Marketing, and the Website Manager to help steer the business.
 
-Goals:
+## Goals:
 Using SQL to:
 * Access and explore the company's database
 * Become the data expert for the company, and the go-to person for mission critical analyses
@@ -14,7 +14,7 @@ Using SQL to:
 
 
 
-Overview of the Company Database
+### Overview of the Company Database
 <img width="765" alt="Screen Shot 2022-05-08 at 11 22 37 am" src="https://user-images.githubusercontent.com/85088636/167277917-fd79782a-d931-49eb-99f2-9497376add30.png">
 
 We will be working with six related tables, which contain eCommerce data about:
