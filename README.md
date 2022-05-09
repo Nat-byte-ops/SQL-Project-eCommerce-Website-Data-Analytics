@@ -14,7 +14,7 @@ Using SQL to:
 
 
 
-### Overview of the Company Database
+## Overview of the Company Database
 <img width="765" alt="Screen Shot 2022-05-08 at 11 22 37 am" src="https://user-images.githubusercontent.com/85088636/167277917-fd79782a-d931-49eb-99f2-9497376add30.png">
 
 We will be working with six related tables, which contain eCommerce data about:
@@ -24,12 +24,12 @@ We will be working with six related tables, which contain eCommerce data about:
 * We'll use MySQL to understand how customers access and interact with the site, analyze landing page performance and conversion, and explore product-level sales.
 
 
-1. Traffic Source Analysis
+## 1. Traffic Source Analysis
 * Traffic source analysis is about understanding where your customers are coming from and which channels (email, social media, search, or direct, etc) are driving the highest quality traffic (calculate the conversion rate).
 * We use the utm parameters stored in the database to identify paid website sessions
 * From our session data, we can link to our order data to understand how much revenue our paid campaigns are driving
 
-1.1 Request from CEO: A breakdown by UTM source, campaign and referring domain to understand where the bulk of our website sessions are coming from until April 12, 2012
+### 1.1 Request from CEO: A breakdown by UTM source, campaign and referring domain to understand where the bulk of our website sessions are coming from until April 12, 2012
 * Solution Query:
 
 ![Screen Shot 2022-05-09 at 5 24 31 pm](https://user-images.githubusercontent.com/85088636/167360645-e1c81179-f0d9-4a05-8daf-c032737846bd.png)
