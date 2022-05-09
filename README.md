@@ -44,3 +44,20 @@ We will be working with six related tables, which contain eCommerce data about:
 * If we're much lower, we'll need to reduce bids
 * If we're higher, we can increase bids to drive more volumne
 
+* Solution Query:
+
+![Screen Shot 2022-05-09 at 7 11 53 pm](https://user-images.githubusercontent.com/85088636/167378792-9186c48c-9099-4a58-8a30-dd4022af1179.png)
+
+* Result Grid
+
+![Screen Shot 2022-05-09 at 7 13 13 pm](https://user-images.githubusercontent.com/85088636/167378988-3243fa0e-7409-41ca-ad16-b67fc0379205.png)
+
+### 1.3 Bid Optimization
+* Analyzing for bid optimization is about understanding the value of various segments of paid traffic, so that one can optimize the marketing budget
+* According to the result from 1.2, it looks like we're below the 4% threshold we need to make the economics work.
+* Based on this analysis, we'll need to dial down our search bids a bit since we're over-spending based on the current conversion rate
+* In this part, we'll monitor the impact of bid reductions
+* And analyze performance trending by device type in order to refine bidding strategy
+
+
+
