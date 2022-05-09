@@ -33,5 +33,13 @@ We will be working with six related tables, which contain eCommerce data about:
 * Solution Query:
 
 ![Screen Shot 2022-05-09 at 5 24 31 pm](https://user-images.githubusercontent.com/85088636/167360645-e1c81179-f0d9-4a05-8daf-c032737846bd.png)
+* Result Grid
+![Screen Shot 2022-05-09 at 5 33 22 pm](https://user-images.githubusercontent.com/85088636/167361987-fa840cf3-d96d-4a86-a538-d9d7e23c7e05.png)
 
+### 1.2 Drill deeper into gsearch nonbrand campaign traffic to explore potential optimization opportunities
+* According to 1.1, it seems that gsearch nonbrand is the company's major traffic source, but we need to understand if those sessions are driving sales
+* So we'll calculate the conversion rate (CVR) from session to order 
+* After discussing with the Marketing Director, we know that based on what we're paying for clicks, we'll need a CVR of at least 4% to make the numbers work
+* If we're much lower, we'll need to reduce bids
+* If we're higher, we can increase bids to drive more volumne
 
