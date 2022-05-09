@@ -22,3 +22,7 @@ We will be working with six related tables, which contain eCommerce data about:
 * Products
 * Orders and Refunds
 * We'll use MySQL to understand how customers access and interact with the site, analyze landing page performance and conversion, and explore product-level sales.
+
+
+1. Traffic Source Analysis
+* Traffic source analysis is about understanding where your customers are coming from and which channels (email, social media, search, or direct, etc) are driving the highest quality traffic (calculate the conversion rate).
