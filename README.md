@@ -30,7 +30,7 @@ We will be working with six related tables, which contain eCommerce data about:
 * From our session data, we can link to our order data to understand how much revenue our paid campaigns are driving
 
 1.1 Request from CEO: A breakdown by UTM source, campaign and referring domain to understand where the bulk of our website sessions are coming from until April 12, 2012
-*Solution Query:
+* Solution Query:
 
 ![Screen Shot 2022-05-09 at 5 24 31 pm](https://user-images.githubusercontent.com/85088636/167360645-e1c81179-f0d9-4a05-8daf-c032737846bd.png)
 
