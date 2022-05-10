@@ -66,4 +66,30 @@ We will be working with six related tables, which contain eCommerce data about:
 * And analyze performance trending by device type in order to refine bidding strategy
 
 
+* So we bid down gsearch nonbrand on 2012-04-15, the Marketing Director asked to pull gsearch nonbrand trended session volume by week, to see if the bid changes have caused volume to drop at all
+* Solution Query
+
+![Screen Shot 2022-05-10 at 9 43 02 pm](https://user-images.githubusercontent.com/85088636/167620690-9ccf98e9-9122-49e2-ac86-d103ba6b26d4.png)
+
+* Result Grid
+
+![Screen Shot 2022-05-10 at 9 43 37 pm](https://user-images.githubusercontent.com/85088636/167620766-faab7f15-ece0-4a80-b8fb-e90076df145f.png)
+
+### 1.4 Traffic Source Trending
+* Based on 1.3 result, it does look like gsearch nonbrand is fairly sensitive to bid changes
+* The ultimate goal is maximun volume, but also maintain some level of efficiency
+* So we'll continue to monitor volume levels
+* Think about how we could make the campaigns more efficient so that we can increase volumn again
+* First of all, we tried to pull conversion rates from session to order by device type to see if desktop performance is better than on mobile. If so, we may be able to bid up for desktop specifically to get more volumn
+* Solution Query
+
+![Screen Shot 2022-05-10 at 10 18 31 pm](https://user-images.githubusercontent.com/85088636/167626493-603057a9-79f6-4b15-9712-86803c876799.png)
+
+* Result Grid
+
+![Screen Shot 2022-05-10 at 10 19 02 pm](https://user-images.githubusercontent.com/85088636/167626584-531f39dc-dca6-4833-aafc-0bbb5319fb00.png)
+
+### 1.5 Traffic Source Bid Optimization - segment trending
+* From 1.4, we can see that the conversion rate for desktop traffic is about 3.7%, for mobile traffic, it's less than 1% 
+
 
