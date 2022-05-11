@@ -92,5 +92,14 @@ We will be working with six related tables, which contain eCommerce data about:
 ### 1.5 Traffic Source Bid Optimization - segment trending
 * From 1.4, we can see that the conversion rate for desktop traffic is about 3.7%, for mobile traffic, it's less than 1% 
 * So the Marketing Team bid the gsearch nonbrand desktop campaigns up on 2012-05-19 and asked the data team to pull weekly trends for both desktop and mobile so they can see the impact on volume, and 2012-04-15 until the bid change can be used as a baseline
+* Solution Query
+![Screen Shot 2022-05-11 at 2 16 09 pm](https://user-images.githubusercontent.com/85088636/167768035-4ccfbb5b-a402-4265-bab0-8f61bdf677e5.png)
+* Result Grid
+![Screen Shot 2022-05-11 at 2 16 40 pm](https://user-images.githubusercontent.com/85088636/167768072-4eaec1c3-ccaf-4eef-b6e5-5855272d39e0.png)
+
+### 1.6
+* Based on 1.5, we can see that mobile has been pretty flat or a little down, but desktop is looking strong thanks to the bid changes we made based on the previous conversion analysis
+* Next, we'll continue to monitor device-level volume and be aware of the impact bid levels has
+* And continue to monitor conversion performance at the device-level to optimize spend
 
 
