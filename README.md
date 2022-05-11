@@ -97,9 +97,34 @@ We will be working with six related tables, which contain eCommerce data about:
 * Result Grid
 ![Screen Shot 2022-05-11 at 2 16 40 pm](https://user-images.githubusercontent.com/85088636/167768072-4eaec1c3-ccaf-4eef-b6e5-5855272d39e0.png)
 
-### 1.6
-* Based on 1.5, we can see that mobile has been pretty flat or a little down, but desktop is looking strong thanks to the bid changes we made based on the previous conversion analysis
+* Based on the above result, we can see that mobile has been pretty flat or a little down, but desktop is looking strong thanks to the bid changes we made based on the previous conversion analysis
 * Next, we'll continue to monitor device-level volume and be aware of the impact bid levels has
 * And continue to monitor conversion performance at the device-level to optimize spend
 
+## 2. Analyzing Website Performance
+* In this section, we'll dive deeper into the company's website with the Website Manager (Front End) to understand where customers are landing on the website and how they make their way through the conversion funnel on the path to placing an order
+ 
+### 2.1 Analyzing Top Website Pages & Entry Pages
+* Website content analysis is about understanding which pages are seen the most by your users, to identify where to focus on improving your business
+![Screen Shot 2022-05-11 at 2 32 28 pm](https://user-images.githubusercontent.com/85088636/167769614-903798b3-8e7e-4840-bc72-d78de19aa321.png)
+Common Use Cases:
+* Finding the most-viewed pages that customers view on your site
+* Identifying the most common entry pages to your website - the first thing a user sees
+* For most-viewed pages and most common entry pages, understanding how those pages perform for your business objectives
+#### 2.1.1 Identifying Top Website Pages
+* The Website Manager would like to pull the most-viewed website pages, ranked by session volume
+* Solution Query
 
+![Screen Shot 2022-05-11 at 4 26 54 pm](https://user-images.githubusercontent.com/85088636/167782778-1c023391-e855-4cba-809e-f282706846e3.png)
+
+* Result Grid
+
+![Screen Shot 2022-05-11 at 4 27 20 pm](https://user-images.githubusercontent.com/85088636/167782840-66fc20c6-40c3-4a4c-a43c-33e9baa6ac53.png)
+
+* According to the above result, it definitely seems like the homepage, the products page and the Mr. Fuzzy page get the bulk of our traffic
+* We'd like to dig into whether this list is also representative of our top entry pages
+* And analyze the performance of each of our top pages to look for improvement opportunities
+
+#### 2.1.2 Identifying Top Entry Pages
+* To confirm where our users are hitting the site, we'll pull a list of the top entry pages
+* First of all, we'll pull all entry pages and rank them on entry volume
