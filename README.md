@@ -108,7 +108,9 @@ We will be working with six related tables, which contain eCommerce data about:
  
 ### 2.1 Analyzing Top Website Pages & Entry Pages
 * Website content analysis is about understanding which pages are seen the most by your users, to identify where to focus on improving your business
+
 ![Screen Shot 2022-05-11 at 2 32 28 pm](https://user-images.githubusercontent.com/85088636/167769614-903798b3-8e7e-4840-bc72-d78de19aa321.png)
+
 Common Use Cases:
 * Finding the most-viewed pages that customers view on your site
 * Identifying the most common entry pages to your website - the first thing a user sees
