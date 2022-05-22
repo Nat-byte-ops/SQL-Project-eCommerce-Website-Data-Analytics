@@ -132,3 +132,4 @@ Common Use Cases:
 #### 2.1.2 Identifying Top Entry Pages
 * To confirm where our users are hitting the site, we'll pull a list of the top entry pages
 * First of all, we'll pull all entry pages and rank them on entry volume
+* 
