@@ -1,7 +1,7 @@
 # SQL-Project-eCommerce-Database-Analysis
 
 ## Background:
-This is an eCommerce Database Analytics Project for Maven Fuzzy Factory (fake name), an online retailer which has just launched their first product. 
+This is an eCommerce Database Analytics Project for Maven Fuzzy Factory (fake name), an online retailer which has just launched their first product. We'll analyze the company's 4 years website and order data.
 
 ## Stakeholders:
 As a member of the startup team, I will work with the CEO, the Head of Marketing, and the Website Manager to help steer the business.
@@ -9,8 +9,9 @@ As a member of the startup team, I will work with the CEO, the Head of Marketing
 ## Goals:
 Using SQL to:
 * Access and explore the company's database
-* Become the data expert for the company, and the go-to person for mission critical analyses
-* Analyze and optimize the business' marketing channels, measure and test website conversion performance, and use data to understand the impact of new product launches
+* Analyze and optimize the business' marketing channels, measure and test website conversion performance
+* Implement the funnel analysis
+* Use data to understand the impact of new product launches
 
 
 
@@ -22,6 +23,16 @@ We will be working with six related tables, which contain eCommerce data about:
 * Products
 * Orders and Refunds
 * We'll use MySQL to understand how customers access and interact with the site, analyze landing page performance and conversion, and explore product-level sales.
+
+* Scale of the database: 6 related tables, which contain more than 1,735,000 rows in total.
+
+## Files in the project:
+* create_mavenfuzzyfactory_vApril2022.sql : create the tables and insert the data.
+* preparing_workbench_vApril2022.sql : 
+#### 1) adjusting max packet size to allow large files to run
+#### 2) adjusting your SQL mode to allow invalid dates and use a smarter GROUP BY setting
+#### 3) adjusting your timeout settings to run longer queries
+* Traffic_Source_Analysis.sql: 
 
 
 ## 1. Traffic Source Analysis
