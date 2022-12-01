@@ -2,7 +2,17 @@
 
 ## Background
 
-This is an eCommerce Database Analytics Project for a start-up, an online retailer which has just launched their first product. We'll analyze the company's 4 years website and order data.
+This is an eCommerce website data analysis project for an online retailer using their website data of 3 years (2012 Mar - 2015 May), from the date they launched their first product to 3 years later when they have 4 signature product.
+
+We will use six related tables, which contain eCommerce data about:
+
+- Website Activity
+- Products
+- Orders and Refunds
+
+We'll use MySQL to understand how customers access and interact with the site, analyze landing page performance and conversion, and explore product-level sales.
+
+- Scale of the database: 6 related tables, which contain more than 1,735,000 rows in total.
 
 ## Goals
 
@@ -45,14 +55,6 @@ Using SQL to:
 
 <img width="765" alt="Screen Shot 2022-05-08 at 11 22 37 am" src="https://user-images.githubusercontent.com/85088636/167277917-fd79782a-d931-49eb-99f2-9497376add30.png">
 
-We will be working with six related tables, which contain eCommerce data about:
-
-- Website Activity
-- Products
-- Orders and Refunds
-- We'll use MySQL to understand how customers access and interact with the site, analyze landing page performance and conversion, and explore product-level sales.
-
-- Scale of the database: 6 related tables, which contain more than 1,735,000 rows in total.
 
 ## Files
 
