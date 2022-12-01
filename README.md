@@ -2,7 +2,7 @@
 
 ## Background
 
-This is an eCommerce website data analysis project for an online retailer using their website data of 3 years (2012 Mar - 2015 May), from the date they launched their first product to 3 years later when they have 4 signature product.
+This is an eCommerce website data analysis project for an online retailer using their website data of 3 years (2012 Mar - 2015 May), from the date they launched their first product to 3 years later when they have 4 signature product. This project is focus on extracting and analyzing data to generate insights.
 
 We will use six related tables, which contain eCommerce data about:
 
@@ -10,7 +10,7 @@ We will use six related tables, which contain eCommerce data about:
 - Products
 - Orders and Refunds
 
-We'll use MySQL to understand how customers access and interact with the site, analyze landing page performance and conversion, and explore product-level sales.
+We'll use MySQL Workbench to query and analyze database in order to understand how customers access and interact with the site, analyze landing page performance and conversion, and explore product-level sales.
 
 - Scale of the database: 6 related tables, which contain more than 1,735,000 rows in total.
 
