@@ -2,7 +2,7 @@
 
 ## Background
 
-This is an eCommerce Database Analytics Project for Maven Fuzzy Factory (fake name), an online retailer which has just launched their first product. We'll analyze the company's 4 years website and order data.
+This is an eCommerce Database Analytics Project for a start-up, an online retailer which has just launched their first product. We'll analyze the company's 4 years website and order data.
 
 ## Goals
 
