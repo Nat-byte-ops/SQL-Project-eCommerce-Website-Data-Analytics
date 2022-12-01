@@ -10,7 +10,7 @@ Using SQL to:
 
 - Access and explore the company's database
 - Analyze and optimize the business' marketing channels, measure and test website conversion performance
-- Implement the funnel analysis
+- Building conversion funnels
 - Use data to understand the impact of new product launches
 
 ## Main Tasks
@@ -101,21 +101,7 @@ We will be working with six related tables, which contain eCommerce data about:
 
 ---
 
-## Visuals
 
-Screenshots, GIFs or even a video. Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Usage
-
-Use examples liberally, and show the expected output.
-
-## Support
-
-Combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-
-Ideas for releases in the future.
 
 ```
 cd existing_repo
